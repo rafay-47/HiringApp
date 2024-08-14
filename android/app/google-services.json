@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531960324934",
+    "project_id": "hiring-cce85",
+    "storage_bucket": "hiring-cce85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531960324934:android:fe256d25041b0a2bd27b47",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9YE_HBMlppv_PwBN0cPfYnYU3z8608JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
